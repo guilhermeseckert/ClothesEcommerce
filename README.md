@@ -17,7 +17,7 @@
 <div style="text-align:center"><img src="img/template.png" width ="700" /></div>
 
 
-### Ferramentas utilizadas
+### tools
 
 - ESLint + Prettier + EditorConfig;
 
