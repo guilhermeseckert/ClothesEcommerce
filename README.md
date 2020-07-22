@@ -1,5 +1,5 @@
 
-<blockquote align="center">“Keep it Simple, Stupid”!</blockquote>
+<blockquote align="center">“Keep it Simple”!</blockquote>
 
 
 <h3 align="center"> E-commerce </h3>
