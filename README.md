@@ -1,4 +1,4 @@
-# ** ClothesEcommerce **
+ ** ClothesEcommerce **
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 
 <h2 align="center"> 
-	 🚀 building Clothes Ecommerce for study purposes. 🚀
+	 🚀 Building Clothes Ecommerce for study purposes. 🚀
 
    [Demonstration here]() 
 </h2>
